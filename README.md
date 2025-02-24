@@ -15,7 +15,7 @@
 
 - 🎓 **Final-Year Student** @ Information Systems Engineering  
 - 👨‍💻 **Passionate about Web Development & System Design**  
-- ⚡ **Tech Stack:** Laravel, React, MySQL
+- ⚡ **Tech Stack:** Laravel, React, MySQL  
 - 🌍 **Hosting:** Railway, AWS S3  
 - 📌 **Projects:** VolComm (Volunteer System)  
 - 🎨 Love clean UI & performance optimization  
@@ -42,6 +42,14 @@
 ✔ Organization & Volunteer Registration  
 ✔ Event Management & Certificates  
 ✔ Admin Dashboard  
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haicoool&theme=onedark&no-frame=true&no-bg=true&margin-w=5&margin-h=5">
+</p>
 
 ---
 
