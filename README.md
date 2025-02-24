@@ -4,9 +4,8 @@
 
 <p align="center">
   🚀 Final-year Information Systems Engineering Student <br>
-  💻 Web Developer | Laravel & Tailwind Enthusiast<br>
-  🌱 Exploring React <br>
-  🎯 Building <strong>VolComm</strong> & Other Cool Projects 🚀 <br>
+  💻 Web Developer | Laravel & Tailwind <br>
+  🌱 Currently Exploring React <br>
 </p>
 
 ---
@@ -16,7 +15,7 @@
 - 🎓 **Final-Year Student** @ Information Systems Engineering  
 - 👨‍💻 **Passionate about Web Development & System Design**  
 - ⚡ **Tech Stack:** Laravel, React, MySQL  
-- 🌍 **Hosting:** Railway, AWS S3  
+- 🌍 **Hosting:** Railway, AWS S3 (Storage)  
 - 📌 **Projects:** VolComm (Volunteer System)  
 - 🎨 Love clean UI & performance optimization  
 
@@ -36,7 +35,7 @@
 ## 🎯 Projects
 
 ### 🚀 **VolComm** – Volunteer Community System  
-📌 **Tech Stack:** Laravel, MySQL, AWS  
+📌 **Tech Stack:** Laravel, MySQL, AWS S3 (Storage)  
 📌 **Hosting:** Railway  
 📌 **Features:**  
 ✔ Organization & Volunteer Registration  
@@ -79,6 +78,3 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
 
----
-
-⭐ **Star my projects if you find them useful!** 🚀  
