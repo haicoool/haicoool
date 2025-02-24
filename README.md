@@ -4,8 +4,8 @@
 
 <p align="center">
   🚀 Final-year Information Systems Engineering Student <br>
-  💻 Web Developer | Laravel & React Enthusiast <br>
-  🌱 Exploring Web Scraping, SAP & Cloud Hosting <br>
+  💻 Web Developer | Laravel & Tailwind Enthusiast<br>
+  🌱 Exploring React <br>
   🎯 Building <strong>VolComm</strong> & Other Cool Projects 🚀 <br>
 </p>
 
@@ -15,19 +15,10 @@
 
 - 🎓 **Final-Year Student** @ Information Systems Engineering  
 - 👨‍💻 **Passionate about Web Development & System Design**  
-- ⚡ **Tech Stack:** Laravel, React, MySQL, SAP S/4 HANA  
+- ⚡ **Tech Stack:** Laravel, React, MySQL
 - 🌍 **Hosting:** Railway, AWS S3  
-- 📌 **Projects:** VolComm (Volunteer System) & Internship Scraper  
+- 📌 **Projects:** VolComm (Volunteer System)  
 - 🎨 Love clean UI & performance optimization  
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haiqal&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haiqal&theme=radical" width="48%">
-</p>
 
 ---
 
@@ -35,20 +26,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
-</p>
-
----
-
-## ✨ Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiqal&layout=compact&theme=radical">
 </p>
 
 ---
@@ -62,13 +42,6 @@
 ✔ Organization & Volunteer Registration  
 ✔ Event Management & Certificates  
 ✔ Admin Dashboard  
-
-### 🌍 **Internship Scraper** – Real-Time Internship Listings  
-📌 **Tech Stack:** Laravel, Web Scraping  
-📌 **Features:**  
-✔ Aggregates Jobs from LinkedIn, JobStreet, Indeed  
-✔ Filters Internships by Location & Field  
-✔ Automated Daily Updates  
 
 ---
 
