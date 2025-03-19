@@ -9,7 +9,7 @@
 <p align="center">
   🚀 Final-year Information Systems Engineering Student <br>
   💻 Web Developer | Laravel & Tailwind <br>
-  🌱 Exploring React & AI Stuff <br>
+  🌱 Exploring React<br>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 🎓 **Final-Year Student** @ ISE  
 - 💡 **Love building cool web apps & systems**  
 - ⚡ **Tech Stack:** Laravel, React, MySQL  
-- 🌍 **Hosting On:** Railway, AWS S3  
+- 🌍 **Hosting On:** Railway, Vercel
 - 📌 **Projects:** VolComm (Volunteer System)  
 - 🎨 Clean UI & Fast Performance = 💖  
 
