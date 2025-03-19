@@ -1,27 +1,23 @@
 <!-- GitHub Profile README - Haiqal -->
 
-<h1 align="center">Hey there, I'm Haiqal! 👋</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
-</p>
+<h1 align="center">Hi there, I'm Haiqal! 👋</h1>
 
 <p align="center">
   🚀 Final-year Information Systems Engineering Student <br>
   💻 Web Developer | Laravel & Tailwind <br>
-  🌱 Exploring React<br>
+  🌱 Currently Exploring React <br>
 </p>
 
 ---
 
 ## 🖥️ About Me
 
-- 🎓 **Final-Year Student** @ ISE  
-- 💡 **Love building cool web apps & systems**  
+- 🎓 **Final-Year Student** @ Information Systems Engineering  
+- 👨‍💻 **Passionate about Web Development & System Design**  
 - ⚡ **Tech Stack:** Laravel, React, MySQL  
-- 🌍 **Hosting On:** Railway, Vercel
+- 🌍 **Hosting:** Railway, AWS S3 (Storage)  
 - 📌 **Projects:** VolComm (Volunteer System)  
-- 🎨 Clean UI & Fast Performance = 💖  
+- 🎨 Love clean UI & performance optimization  
 
 ---
 
@@ -31,8 +27,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
 </p>
 
 ---
@@ -40,31 +35,26 @@
 ## 🎯 Projects
 
 ### 🚀 **VolComm** – Volunteer Community System  
-📌 **Tech Stack:** Laravel, MySQL, AWS S3  
+📌 **Tech Stack:** Laravel, MySQL, AWS S3 (Storage)  
 📌 **Hosting:** Railway  
 📌 **Features:**  
-✔ Register Volunteers & Organizations  
-✔ Manage Events & Certificates  
+✔ Organization & Volunteer Registration  
+✔ Event Management & Certificates  
 ✔ Admin Dashboard  
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400">
+  <img src="https://github-profile-trophy.vercel.app/?username=haicoool&theme=onedark&no-frame=true&no-bg=true&margin-w=5&margin-h=5">
 </p>
 
 ---
 
-## 🏆 GitHub Stats
+## ✍️ Quote of the Day
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haicoool&show_icons=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haicoool&theme=radical">
-</p>
-
----
-
-## ✍️ Fun Quote
-
-> "Code is like humor. If you have to explain it, it’s bad." – Cory House  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
